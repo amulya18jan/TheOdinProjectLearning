@@ -1,0 +1,20 @@
+.bolderText{
+    font-weight: bolder;
+    font-size: 30px;
+}
+.smallerText{
+    font-weight: bold;
+}
+.confirm{
+ background-color: green;
+ color: white;
+ font-weight: bold;
+ font-size: 15px;
+}
+.thinText{
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.childDiv2{
+    font-weight: bold;
+}
