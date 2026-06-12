@@ -1,0 +1,20 @@
+.container{
+  height: 40vh;
+    width: 100%;
+    border: 2px dotted black;
+
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+
+    align-content: flex-start; /* Important */
+    gap: 5px;
+}
+.items {
+  width: 35px;
+    height: 33px;
+    border: 2px solid red;
+    border-radius: 20px;
+    text-align: center;
+    font-size: 25px;
+}
